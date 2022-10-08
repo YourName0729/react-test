@@ -16,6 +16,10 @@
 
 $a+b\neq c$
 
+- $\textbf{abc}$
+- $\textsc{abc}$
+- $\mathcal{NZQR}$
+- $\mathbb{NZQR}$
 
 <h1>H1???</h1>
 
@@ -28,7 +32,11 @@ $a+b\neq c$
 </h1>
 
 console.log('what?!!!');
+```
 
+</details>
+
+```js
 import what from 'text';
 
 function foo() {
@@ -53,7 +61,24 @@ public:
 };
 ```
 
-</details>
+$$
+\begin{pmatrix}
+1&2&3\\
+4&5&6
+\end{pmatrix}
+$$
+
+$$
+f(x)=
+\begin{cases}
+1&\text{if $x=0$},\\
+2&\text{otherwise}.
+\end{cases}
+$$
+
+$a+b=c$
+
+$\left(\frac{1}{2}\right)$
 
 - $x^2+y^2=\frac{1}{2}$
 - `inline code`
