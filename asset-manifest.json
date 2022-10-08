@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.00ebbc6c.css",
-    "main.js": "/react-test/static/js/main.21b68b8b.js",
-    "static/js/881.571e0d14.chunk.js": "/react-test/static/js/881.571e0d14.chunk.js",
+    "main.css": "/react-test/static/css/main.1858fb12.css",
+    "main.js": "/react-test/static/js/main.fa53b407.js",
+    "static/js/881.a41b7352.chunk.js": "/react-test/static/js/881.a41b7352.chunk.js",
+    "static/js/787.223550ad.chunk.js": "/react-test/static/js/787.223550ad.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/react-test/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/react-test/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/react-test/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -63,13 +64,14 @@
     "static/media/KaTeX_Size4-Regular.woff2": "/react-test/static/media/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2",
     "static/media/KaTeX_Size3-Regular.woff": "/react-test/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/react-test/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
-    "static/media/test.md": "/react-test/static/media/test.364b55379743b1959917.md",
+    "static/media/test.md": "/react-test/static/media/test.745a8f5c9c5383d15f4a.md",
     "index.html": "/react-test/index.html",
-    "main.00ebbc6c.css.map": "/react-test/static/css/main.00ebbc6c.css.map",
-    "main.21b68b8b.js.map": "/react-test/static/js/main.21b68b8b.js.map"
+    "main.1858fb12.css.map": "/react-test/static/css/main.1858fb12.css.map",
+    "main.fa53b407.js.map": "/react-test/static/js/main.fa53b407.js.map",
+    "787.223550ad.chunk.js.map": "/react-test/static/js/787.223550ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00ebbc6c.css",
-    "static/js/main.21b68b8b.js"
+    "static/css/main.1858fb12.css",
+    "static/js/main.fa53b407.js"
   ]
 }
